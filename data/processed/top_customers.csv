@@ -1,0 +1,11 @@
+customer_id,name,region,total_spend,churned
+96.0,Julia Brown,East,2944.0,False
+230.0,Sarah Johnson,North,2645.0,False
+993.0,James Harris,East,2516.0,False
+560.0,Maria Clayton,Central,2469.0,True
+131.0,Cameron Fisher,Central,2434.0,False
+548.0,Sarah Jones,West,2432.0,True
+299.0,Brenda Collins,Central,2431.0,False
+947.0,Heather Silva,West,2033.0,False
+577.0,Cynthia Le,Central,2018.0,False
+266.0,Caroline Cortez,East,2010.0,False

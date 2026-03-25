@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+1,Laptop,Electronics,1200
+2,Mouse,Accessories,25
+3,Keyboard,Accessories,75
+4,Monitor,Electronics,400
+5,Headphones,Audio,150
+6,USB Cable,Accessories,10
+7,Charger,Accessories,35
+8,Webcam,Electronics,60
+9,SSD,Storage,120
+10,RAM,Memory,80
